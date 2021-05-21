@@ -4,7 +4,7 @@ Olá pessoal, meu nome é Gilvan André e sou desenvolvedor java a mais de 10 an
 
 Atualmente estou atuando como Analista Desenvolvedor Java na [CWI Além do Software](https://cwi.com.br/), uma empresa maravilhosa com uma cultura sensacional que inspira o crescimento dos seus colaboradores e clientes.
 
-Sou realmente apaixonado por tecnologia e busco sempre me desenvolver tão rápido quanto a área, tanto profissionalmente quanto pessoalmente.
+Sou realmente apaixonado por tecnologia e busco sempre me desenvolver tão rápido quanto a área, profissionalmente e/ou pessoalmente.
 
 [![Linkedin: gilvangobbato](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilvangobbato/)](https://www.linkedin.com/in/gilvangobbato/)
 
@@ -21,7 +21,7 @@ Sou realmente apaixonado por tecnologia e busco sempre me desenvolver tão rápi
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-44cc11?style=flat-square&logo=PostgreSQL&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/-git-black?style=flat-square&logo=git)
