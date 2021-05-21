@@ -1,13 +1,19 @@
 ### Sejam bem vindos ao meu perfil ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub)
 
-Atualmente estou atuando como Analista Desenvolvedor Java Senior na [CWI Além do Software](https://cwi.com.br/)
+Olá pessoal, meu nome é Gilvan André e sou desenvolvedor java a mais de 10 anos.
+
+Atualmente estou atuando como Analista Desenvolvedor Java na [CWI Além do Software](https://cwi.com.br/), uma empresa maravilhosa com uma cultura sensacional que inspira o crescimento dos seus colaboradores e clientes.
+
+Sou realmente apaixonado por tecnologia e busco sempre me desenvolver tão rápido quanto a área, tanto profissionalmente quanto pessoalmente.
+
+[![Linkedin: gilvangobbato](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilvangobbato/)](https://www.linkedin.com/in/gilvangobbato/)
 
 #### Algumas stacks em que já trabalhei até hoje:
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-flutter-007396?style=flat-square&logo=flutter)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=MariaDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -23,7 +29,7 @@ Atualmente estou atuando como Analista Desenvolvedor Java Senior na [CWI Além d
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub)
 ![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![NetBeans](https://img.shields.io/badge/-NetBeans-007ACC?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
+![NetBeans](https://img.shields.io/badge/-NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white)
 ![Json](https://img.shields.io/badge/-json-black?style=flat-square&logo=json)
 
 <!--
