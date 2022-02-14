@@ -2,7 +2,7 @@
 
 Olá pessoal, meu nome é Gilvan André e sou desenvolvedor java a mais de 10 anos.
 
-Atualmente estou atuando como Analista Desenvolvedor Java na [CWI Além do Software](https://cwi.com.br/), uma empresa maravilhosa com uma cultura sensacional que inspira o crescimento dos seus colaboradores e clientes.
+Atualmente estou atuando como Engenheiro de Softwar na [Pismo](https://pismo.io/), empresa que está em expansão com uma enorme quantidade de serviços que são oferecidos para instituições financeiras.
 
 Sou realmente apaixonado por tecnologia e busco sempre me desenvolver tão rápido quanto a área, profissionalmente e/ou pessoalmente.
 
